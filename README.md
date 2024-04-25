@@ -13,9 +13,6 @@ The first calculates the power law exponent for 2-D arrays containing structures
   list of binary arrays, where 'size' $\phi$ can be perimeter, area, length, or width:
 
   $n(\phi) \propto \phi^{-(1+\alpha)}$
-
-  Returns the size distributions for truncated objects and nontruncated objects
-  and the index where truncated object begin to dominate.
   
   Works for binary arrays and also for binary arrays where the data boundary is 
   demarcated by nans. This enables the domain boundary to be an arbitrary shape, 
