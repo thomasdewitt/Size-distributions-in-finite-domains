@@ -3,7 +3,7 @@
 
 Link to the preprint [here](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-67/).
 
-The software available here are general purpose Python scripts that implement the methodology recommended by DeWitt &amp; Garrett (2024). For the specific code used to generate figures in that publication, please contact Thomas DeWitt directly.
+The software available here are general purpose Python scripts that implement the methodology recommended by DeWitt &amp; Garrett (2024). For the specific code used to generate figures in that publication (for example, code that processes satellite imagery), please contact Thomas DeWitt directly.
 
 There are two main functions that can be used to calculate size distributions in `size_distributions.py`, described below.
 
