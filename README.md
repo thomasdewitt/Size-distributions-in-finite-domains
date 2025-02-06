@@ -1,7 +1,7 @@
 # Size-distributions-in-finite-domains
 ### Software to calculate size distributions for objects in 2-D domains using methodology described in DeWitt &amp; Garrett (2024): <u>Finite domains cause bias in measured and modeled distributions of cloud sizes</u>.
 
-Link to the preprint [here](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-67/).
+Link to the paper [here](https://acp.copernicus.org/articles/24/8457/2024/acp-24-8457-2024.html).
 
 The software available here are general purpose Python scripts that implement the methodology recommended by DeWitt &amp; Garrett (2024). For the specific code used to generate figures in that publication (for example, code that processes satellite imagery), please contact Thomas DeWitt directly.
 
